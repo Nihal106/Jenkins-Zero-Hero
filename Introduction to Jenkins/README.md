@@ -141,3 +141,32 @@ This pipeline ensures:
 | Test | Feature testing, bug fixing | Dummy | Unstable |
 | Staging | Final check before deployment | Production-like | Stable |
 | Production | Live for real customers | Real data | Very Stable |
+
+
+---
+
+## 🔹  Why Companies Use Jenkins?
+
+Companies prefer Jenkins because it simplifies and automates the entire software delivery process.
+
+### ✔ Key Advantages
+
+- **Free & Open-Source**  
+  No cost for using Jenkins, suitable for all company sizes.
+
+- **Automates Build, Test & Deployment**  
+  Removes repetitive manual work and speeds up development.
+
+- **Reduces Human Errors**  
+  Automated pipelines provide accuracy and consistency.
+
+- **Faster Software Releases**  
+  CI/CD pipelines allow quick and continuous delivery of features.
+
+- **Integrates with Many Tools**  
+  Works with **Docker, Kubernetes, AWS, GitHub, GitLab, Maven, Terraform** and thousands of plugins.
+
+- **Strong Community Support**  
+  Large user community, frequent updates, and plugin ecosystem.
+  
+---
