@@ -3,7 +3,7 @@
 
 ## 📌 What is Jenkins?
 
-**Jenkins** is an **open-source automation server**.
+**Jenkins** is an **open-source automation server that automates the building, testing, and deployment of software** .
 
 Instead of doing everything manually, Jenkins can automatically:
 
